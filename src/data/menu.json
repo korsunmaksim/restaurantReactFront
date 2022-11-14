@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Caesar",
+    "price": 10.99,
+    "imgUrl": "caesar.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Omelet",
+    "price": 4.99,
+    "imgUrl": "omelet.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Pizza",
+    "price": 7.99,
+    "imgUrl": "pizza.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Chicken and rice",
+    "price": 5.99,
+    "imgUrl": "chickrice.jpg"
+  }
+]
